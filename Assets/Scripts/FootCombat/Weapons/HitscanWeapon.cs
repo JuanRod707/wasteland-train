@@ -1,4 +1,5 @@
 ﻿using System.Collections;
+using FootCombat.Scenario;
 using UnityEngine;
 
 namespace Assets.Scripts.FootCombat.Weapons
@@ -26,12 +27,33 @@ namespace Assets.Scripts.FootCombat.Weapons
         {
             if (isReady)
             {
-                var aimPonit = CalculateAimPoint();
+                var aimPoint = CalculateAimPoint();
                 isReady = false;
-                DisplayShotLine(aimPonit);
+                var bulletHit = CalculateBulletHit(aimPoint);
+                
+                if(bulletHit.collider!= null)
+                    FireBullet(bulletHit);
+                
+                DisplayShotLine(bulletHit.collider!= null ? bulletHit.point : aimPoint);
                 StartCoroutine(WaitForCycle());
                 MuzzleFlash.Emit(1);
                 FireSfx.Play();
+            }
+        }
+
+        RaycastHit CalculateBulletHit(Vector3 aimPoint)
+        {
+            RaycastHit hit;
+            Physics.Raycast(ShotLine.transform.position, aimPoint, out hit);
+            return hit;
+        }
+        
+        void FireBullet(RaycastHit hit)
+        {
+            var surface = hit.collider.GetComponent<ImpactSurface>();
+            if (surface != null)
+            {
+                surface.Hit(hit.point, transform.position);
             }
         }
 

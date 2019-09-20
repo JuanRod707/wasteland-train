@@ -17,6 +17,9 @@ public class PlayerInput : MonoBehaviour
 
         if(Input.GetMouseButton(0))
             Character.Weapon.Fire();
+
+        if (Input.GetKeyDown(KeyCode.Space))
+            Character.Movement.Dash();
     }
 
     Vector3 GetMouseAim()

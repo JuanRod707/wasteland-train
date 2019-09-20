@@ -5,12 +5,36 @@
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
         <e p="Scripts" t="Include">
-          <e p="Navigation" t="Include">
-            <e p="NavigationNode.cs" t="Include" />
+          <e p="Common" t="Include">
+            <e p="FollowAnchor.cs" t="Include" />
+            <e p="Navigation" t="Include">
+              <e p="NavigationNode.cs" t="Include" />
+            </e>
           </e>
-          <e p="Tracks" t="Include">
-            <e p="TrackEditor.cs" t="Include" />
-            <e p="TrackSection.cs" t="Include" />
+          <e p="FootCombat" t="Include">
+            <e p="Entities" t="Include">
+              <e p="Character.cs" t="Include" />
+              <e p="CharacterView.cs" t="Include" />
+            </e>
+            <e p="Movement" t="Include">
+              <e p="CharacterMovement.cs" t="Include" />
+              <e p="Dash.cs" t="Include" />
+            </e>
+            <e p="PlayerInitializer.cs" t="Include" />
+            <e p="PlayerInput.cs" t="Include" />
+            <e p="Scenario" t="Include">
+              <e p="ImpactSurface.cs" t="Include" />
+            </e>
+            <e p="Weapons" t="Include">
+              <e p="HitscanWeapon.cs" t="Include" />
+              <e p="HitscanWeaponStats.cs" t="Include" />
+            </e>
+          </e>
+          <e p="World" t="Include">
+            <e p="Tracks" t="Include">
+              <e p="TrackEditor.cs" t="Include" />
+              <e p="TrackSection.cs" t="Include" />
+            </e>
           </e>
         </e>
       </e>

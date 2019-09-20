@@ -2,19 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c0890c-5687-4062-ad88-43faf8acf6a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Tracks/TrackEditor.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/Dash.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/Dash.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Scenario.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Scenario/ImpactSurface.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Scenario/ImpactSurface.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.wasteland-train/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wasteland-train/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.wasteland-train/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.wasteland-train/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/FootCombat/PlayingCharacter.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/FootCombat/PlayingCharacter.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Uzi.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Uzi.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Foot_combat_test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Foot_combat_test.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Entities/Character.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Entities/Character.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FootCombat/HitSurface.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FootCombat/HitSurface.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/CharacterMovement.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/CharacterMovement.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FootCombat/PlayerInput.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/PlayerInput.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Weapons/HitscanWeapon.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/FootCombat/Weapons/HitscanWeapon.cs" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,44 +26,77 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Navigation/NavigationNode.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Weapons/HitscanWeapon.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="544">
+              <caret line="36" column="86" selection-start-line="36" selection-start-column="86" selection-end-line="36" selection-end-column="86" />
               <folding>
-                <marker date="1567797905473" expanded="false" signature="6:78" ph="..." />
-                <marker date="1567797905473" expanded="true" signature="123:297" ph="{...}" />
-                <marker date="1567797905473" expanded="true" signature="195:216" ph="{...}" />
-                <marker date="1567797905473" expanded="true" signature="274:295" ph="{...}" />
+                <marker date="1568998809967" expanded="false" signature="6:71" ph="..." />
+                <marker date="1568998809967" expanded="true" signature="116:2127" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="165:2125" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="421:469" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="569:1118" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="604:1108" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="1175:1324" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="1373:1584" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="1486:1574" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="1621:1833" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="1878:1974" ph="{...}" />
+                <marker date="1568998809967" expanded="true" signature="2010:2119" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Tracks/TrackSection.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/PlayerInput.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+            <state relative-caret-position="320">
+              <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
               <folding>
-                <marker date="1567799162061" expanded="false" signature="6:78" ph="..." />
-                <marker date="1567799162061" expanded="true" signature="121:499" ph="{...}" />
+                <marker date="1569003125614" expanded="false" signature="6:60" ph="..." />
+                <marker date="1569003125614" expanded="true" signature="102:1334" ph="{...}" />
+                <marker date="1569003125614" expanded="true" signature="184:595" ph="{...}" />
+                <marker date="1569003125614" expanded="true" signature="622:961" ph="{...}" />
+                <marker date="1569003125614" expanded="true" signature="801:925" ph="{...}" />
+                <marker date="1569003125614" expanded="true" signature="994:1332" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Tracks/TrackEditor.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/Dash.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+            <state relative-caret-position="416">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
               <folding>
-                <marker date="1567798526615" expanded="false" signature="6:37" ph="..." />
-                <marker date="1567798526615" expanded="true" signature="55:658" ph="{...}" />
-                <marker date="1567798526615" expanded="true" signature="144:656" ph="{...}" />
-                <marker date="1567798526615" expanded="true" signature="196:650" ph="{...}" />
+                <marker date="1569004440512" expanded="true" signature="6:44" ph="..." />
+                <marker date="1569004440512" expanded="true" signature="75:872" ph="{...}" />
+                <marker date="1569004440512" expanded="true" signature="115:870" ph="{...}" />
+                <marker date="1569004440512" expanded="true" signature="306:407" ph="{...}" />
+                <marker date="1569004440512" expanded="true" signature="450:646" ph="{...}" />
+                <marker date="1569004440512" expanded="true" signature="486:636" ph="{...}" />
+                <marker date="1569004440512" expanded="true" signature="757:864" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/CharacterMovement.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+              <folding>
+                <marker date="1569004246823" expanded="true" signature="49:773" ph="{...}" />
+                <marker date="1569004246823" expanded="true" signature="102:771" ph="{...}" />
+                <marker date="1569004246823" expanded="true" signature="263:333" ph="{...}" />
+                <marker date="1569004246823" expanded="true" signature="393:616" ph="{...}" />
+                <marker date="1569004246823" expanded="true" signature="441:606" ph="{...}" />
+                <marker date="1569004246823" expanded="true" signature="644:765" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -72,21 +108,28 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Navigation/NavigationNode.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tracks/TrackSection.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tracks/TrackEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Scenario/ImpactSurface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Weapons/HitscanWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/Dash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/CharacterMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/PlayerInput.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/Tracks/TrackEditor.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Tracks/TrackSection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FootCombat/Scenario/ImpactSurface.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FootCombat/Weapons/HitscanWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FootCombat/PlayerInput.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/CharacterMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/Dash.cs" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1939" />
-    <option name="y" value="24" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1920" />
+    <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="1057" />
   </component>
@@ -98,7 +141,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -115,7 +160,34 @@
               <item name="Project" type="e068e287:UnityExplorerRootNode" />
               <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
               <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
-              <item name="Tracks" type="1045f7f1:UnityExplorerNode" />
+              <item name="Common" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="FootCombat" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="FootCombat" type="1045f7f1:UnityExplorerNode" />
+              <item name="Movement" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="FootCombat" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scenario" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="FootCombat" type="1045f7f1:UnityExplorerNode" />
+              <item name="Weapons" type="1045f7f1:UnityExplorerNode" />
             </path>
           </expand>
           <select />
@@ -123,10 +195,8 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
+      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -153,10 +223,10 @@
       <option name="pid" />
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="7278">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="7278" />
       <method v="2" />
     </configuration>
   </component>
@@ -171,11 +241,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567797918810</updated>
       <workItem from="1567797923153" duration="1206000" />
+      <workItem from="1568997762352" duration="3472000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1206000" />
+    <option name="totallyTimeSpent" value="4678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -187,21 +258,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1921" y="23" width="1920" height="1057" extended-state="6" />
+    <frame x="-1920" y="23" width="1920" height="1057" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2550586" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -209,11 +273,18 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
     </layout>
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
@@ -229,38 +300,91 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Navigation/NavigationNode.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Navigation/NavigationNode.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Tracks/TrackSection.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Tracks/TrackEditor.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/HitSurface.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="128">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Scenario/ImpactSurface.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="6" column="30" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
           <folding>
-            <marker date="1567797905473" expanded="false" signature="6:78" ph="..." />
-            <marker date="1567797905473" expanded="true" signature="123:297" ph="{...}" />
-            <marker date="1567797905473" expanded="true" signature="195:216" ph="{...}" />
-            <marker date="1567797905473" expanded="true" signature="274:295" ph="{...}" />
+            <marker date="1568997946995" expanded="true" signature="49:357" ph="{...}" />
+            <marker date="1568997946995" expanded="true" signature="98:355" ph="{...}" />
+            <marker date="1568997946995" expanded="true" signature="204:349" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Tracks/TrackSection.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Weapons/HitscanWeapon.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="12" column="78" selection-start-line="12" selection-start-column="78" selection-end-line="12" selection-end-column="78" />
+        <state relative-caret-position="544">
+          <caret line="36" column="86" selection-start-line="36" selection-start-column="86" selection-end-line="36" selection-end-column="86" />
           <folding>
-            <marker date="1567799162061" expanded="false" signature="6:78" ph="..." />
-            <marker date="1567799162061" expanded="true" signature="121:499" ph="{...}" />
+            <marker date="1568998809967" expanded="false" signature="6:71" ph="..." />
+            <marker date="1568998809967" expanded="true" signature="116:2127" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="165:2125" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="421:469" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="569:1118" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="604:1108" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="1175:1324" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="1373:1584" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="1486:1574" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="1621:1833" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="1878:1974" ph="{...}" />
+            <marker date="1568998809967" expanded="true" signature="2010:2119" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Tracks/TrackEditor.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/PlayerInput.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        <state relative-caret-position="320">
+          <caret line="21" column="34" lean-forward="true" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
           <folding>
-            <marker date="1567798526615" expanded="false" signature="6:37" ph="..." />
-            <marker date="1567798526615" expanded="true" signature="55:658" ph="{...}" />
-            <marker date="1567798526615" expanded="true" signature="144:656" ph="{...}" />
-            <marker date="1567798526615" expanded="true" signature="196:650" ph="{...}" />
+            <marker date="1569003125614" expanded="false" signature="6:60" ph="..." />
+            <marker date="1569003125614" expanded="true" signature="102:1334" ph="{...}" />
+            <marker date="1569003125614" expanded="true" signature="184:595" ph="{...}" />
+            <marker date="1569003125614" expanded="true" signature="622:961" ph="{...}" />
+            <marker date="1569003125614" expanded="true" signature="801:925" ph="{...}" />
+            <marker date="1569003125614" expanded="true" signature="994:1332" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/CharacterMovement.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="19" column="37" lean-forward="true" selection-start-line="19" selection-start-column="37" selection-end-line="19" selection-end-column="37" />
+          <folding>
+            <marker date="1569004246823" expanded="true" signature="49:773" ph="{...}" />
+            <marker date="1569004246823" expanded="true" signature="102:771" ph="{...}" />
+            <marker date="1569004246823" expanded="true" signature="263:333" ph="{...}" />
+            <marker date="1569004246823" expanded="true" signature="393:616" ph="{...}" />
+            <marker date="1569004246823" expanded="true" signature="441:606" ph="{...}" />
+            <marker date="1569004246823" expanded="true" signature="644:765" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/FootCombat/Movement/Dash.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <marker date="1569004440512" expanded="true" signature="6:44" ph="..." />
+            <marker date="1569004440512" expanded="true" signature="75:872" ph="{...}" />
+            <marker date="1569004440512" expanded="true" signature="115:870" ph="{...}" />
+            <marker date="1569004440512" expanded="true" signature="306:407" ph="{...}" />
+            <marker date="1569004440512" expanded="true" signature="450:646" ph="{...}" />
+            <marker date="1569004440512" expanded="true" signature="486:636" ph="{...}" />
+            <marker date="1569004440512" expanded="true" signature="757:864" ph="{...}" />
           </folding>
         </state>
       </provider>

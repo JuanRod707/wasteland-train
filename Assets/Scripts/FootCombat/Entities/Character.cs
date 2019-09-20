@@ -1,4 +1,5 @@
 ﻿using Assets.Scripts.FootCombat.Weapons;
+using FootCombat.Movement;
 using UnityEngine;
 
 namespace Assets.Scripts.FootCombat.Entities
